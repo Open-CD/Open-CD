@@ -28,7 +28,7 @@ Nuestros principales objetivos son:
 Para mantener un ambiente positivo y constructivo, te pedimos que sigas nuestras [Normas de la Comunidad](https://link-a-normas-de-la-comunidad.md).
 
 ## 🌐 Redes Sociales:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/OPENCD) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/OPENCD) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/OPENCD) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/OPENCD) [![WhatsApp](https://img.shields.io/badge/WhapsApp)](https://linkedin.com/in/OPENCD) [![Telegram](https://img.shields.io/badge/https://static.vecteezy.com/system/resources/previews/017/221/781/non_2x/telegram-logo-transparent-free-png.png)](https://linkedin.com/in/OPENCD) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@OPENCD) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/OPENCD) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/OPENCD) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/OPENCD) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/OPENCD) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@OPENCD) 
 # 📊 Estadisticas de GitHub:
 ![](https://github-readme-stats.vercel.app/api?username=Open-CD&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Open-CD&theme=dark&hide_border=false)<br/>
@@ -41,6 +41,13 @@ Para mantener un ambiente positivo y constructivo, te pedimos que sigas nuestras
 [![](https://visitcount.itsvg.in/api?id=Open-CD&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## Comunicación
+
+Mantente en contacto con nosotros a través de los siguientes canales:
+
+- Grupo de WhatsApp: [Enlace al grupo de WhatsApp](https://link-al-grupo-de-whatsapp)
+- Grupo de Telegram: [Enlace al grupo de Telegram](https://link-al-grupo-de-telegram)
 
 ## ¡Únete a la Comunidad OpenCD!
 

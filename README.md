@@ -1,6 +1,6 @@
 # OpenCD (Open Code Data)
 
-¡Bienvenido a la Comunidad OpenCD!
+<h2 align="left">¡Bienvenido a la Comunidad OpenCD!</h2>
 
 [![Logo OpenCD](https://www.vectorlogo.zone/logos/opensource/opensource-ar21.png)](https://github.com/Open-CD/OpenCD)
 

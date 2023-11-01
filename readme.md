@@ -19,7 +19,7 @@ Nuestros principales objetivos son:
 ¡Esperamos contar con tu participación! Puedes contribuir de las siguientes maneras:
 
 - **Desarrollo de Proyectos:** Únete a uno de nuestros emocionantes proyectos de código abierto o inicia el tuyo propio.
-- **Aprendizaje:** Participa en nuestros talleres y eventos para adquirir experiencia en diversas áreas tecnológicas.
+- **Aprendizaje:** Adquiere aprendizaje a traves de los recursos compartidos en la comunidas, y la colaboracion continua.
 - **Colaboración:** Comparte tu experiencia y conocimientos con otros miembros de la comunidad.
 - **Participación Activa:** Únete a nuestras discusiones, comparte tus ideas y participa en encuestas y eventos.
 
@@ -27,15 +27,21 @@ Nuestros principales objetivos son:
 
 Para mantener un ambiente positivo y constructivo, te pedimos que sigas nuestras [Normas de la Comunidad](https://link-a-normas-de-la-comunidad.md).
 
-## Comunicación
+## 🌐 Redes Sociales:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/OPENCD) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/OPENCD) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/OPENCD) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/OPENCD) [![WhatsApp](https://static.vecteezy.com/system/resources/thumbnails/018/930/748/small/whatsapp-logo-whatsapp-icon-whatsapp-transparent-free-png.png)](https://linkedin.com/in/OPENCD) [![Telegram](https://static.vecteezy.com/system/resources/previews/017/221/781/non_2x/telegram-logo-transparent-free-png.png)](https://linkedin.com/in/OPENCD) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@OPENCD) 
+# 📊 Estadisticas de GitHub:
+![](https://github-readme-stats.vercel.app/api?username=Open-CD&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Open-CD&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Open-CD&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-Mantente en contacto con nosotros a través de los siguientes canales:
+## 🏆 Insignias de GitHub
+![](https://github-profile-trophy.vercel.app/?username=Open-CD&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-- Grupo de WhatsApp: [Enlace al grupo de WhatsApp](https://link-al-grupo-de-whatsapp)
-- Grupo de Telegram: [Enlace al grupo de Telegram](https://link-al-grupo-de-telegram)
+---
+[![](https://visitcount.itsvg.in/api?id=Open-CD&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## ¡Únete a la Comunidad OpenCD!
 
 Estamos emocionados de tenerte a bordo en nuestra comunidad. Juntos, podemos marcar la diferencia en la República Dominicana a través de la tecnología y la colaboración.
-
-[¡Únete a la Comunidad!](https://link-de-unión-a-la-comunidad)

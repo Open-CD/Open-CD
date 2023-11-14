@@ -2,7 +2,7 @@
 
 <h2 align="left">¡Bienvenido a la Comunidad OpenCD!</h2>
 
-[![Logo OpenCD]([https://www.vectorlogo.zone/logos/opensource/opensource-ar21.png](https://res.cloudinary.com/dl4mqz24g/image/upload/v1699920923/zqjuxlidqfqmheyueqxb.jpg))](https://github.com/Open-CD/OpenCD)
+[![Logo OpenCD]([https://res.cloudinary.com/dl4mqz24g/image/upload/v1699920923/zqjuxlidqfqmheyueqxb.jpg])](https://github.com/Open-CD/OpenCD)
 
 OpenCD es una comunidad dedicada a la creación y desarrollo de proyectos de código abierto que aplican técnicas de machine learning, analítica de datos, desarrollo web y más, para abordar problemas sociales en la República Dominicana y más allá. Nuestro objetivo es contribuir al desarrollo y la mejora de la sociedad utilizando datos y tecnología, al tiempo que brindamos un espacio para aprender y crecer juntos en diversas áreas tecnológicas, como ciencia de datos, machine learning, desarrollo web, networking y marketing.
 
